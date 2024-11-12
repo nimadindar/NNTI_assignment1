@@ -12,8 +12,7 @@ This repository contains implementations and solutions to the exercises outlined
   - [Exercise 1: Data Generation and Visualization](#exercise-1-data-generation-and-visualization)
   - [Exercise 2: Classification and Decision Boundary](#exercise-2-classification-and-decision-boundary)
   - [Exercise 3: Analysis of Model Performance](#exercise-3-analysis-of-model-performance)
-- [Group Information](#group-information)
-- [License](#license)
+
 
 ---
 
@@ -27,7 +26,7 @@ This repository contains implementations and solutions to the exercises outlined
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/nimadindar/NNTI_assignment1.git
 
 Install required packages:
 bash
