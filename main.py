@@ -1,16 +1,3 @@
-"""
-Name:                   
-    Nima DindarSafa
-    Samira Abedini
-
-Student ID:
-    7072844
-    7072848
-
-Email:
-    nima.dindarsafa@gmail.com
-    samiraabedini150@gmail.com
-"""
 
 # Assignment 1
 
